@@ -1,3 +1,3 @@
 export * from './layout.module';
-export * from './default';
+export * from './default-layout';
 export * from './services';

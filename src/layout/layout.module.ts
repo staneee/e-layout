@@ -2,7 +2,7 @@ import {NgModule} from '@angular/core';
 
 import {NgZorroAntdModule} from 'ng-zorro-antd';
 
-import {DefaultLayoutComponent} from './default';
+import {DefaultLayoutComponent} from './default-layout';
 import {IconsProviderModule} from '../shared';
 import {CommonModule} from '@angular/common';
 import { RouterModule } from '@angular/router';
